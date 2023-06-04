@@ -9,4 +9,4 @@ Aplicando os paradigmas de projeto, analise, desenvolvimento front-end e back-en
 
 <p><b>Descrição do projeto </b></p>
 
-<p> Criação de uma vitrine virtual para exposição dos produtos e que permita a integração e socialização entre os usuários, tanto vendedores quanto compradores.</p>
+<p> Criação de uma vitrine virtual para exposição dos produtos e que permita a integração e socialização entre os usuários, tanto vendedores quanto compradores. A pretenção é que as imagens dos produtos sejam 360° e  disponibilizadas também para visualização em óculos de realidade virtual.</p>
